@@ -22,7 +22,7 @@ function mainloop(){
             document.body.style.backgroundColor = `#000000`;
         } else if (day === `☀️`){
             document.body.style.color = `#00000`;
-            document.body.style.backgroundColor = `#fffff`;
+            document.body.style.backgroundColor = `#0062ff`;
         } else if (day === `🌇`){
             document.body.style.color = `#ffffff`;
             document.body.style.backgroundColor = `#383838`;
