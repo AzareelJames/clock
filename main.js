@@ -25,7 +25,7 @@ function mainloop(){
             document.body.style.backgroundColor = `#0062ff`;
         } else if (day === `🌇`){
             document.body.style.color = `#ffffff`;
-            document.body.style.backgroundColor = `#383838`;
+            document.body.style.backgroundColor = `#a32300`;
         } else if (day === `?`){
             throw Error(`Unexpected Error`)
         }
